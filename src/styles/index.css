@@ -123,6 +123,19 @@ section {
     border: 1px solid black;
 }
 
+section > h2{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    font-size: 60px;
+}
+
+.varios{
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #ED4D1B;
+}
+
 .cardContainer{
     display: flex;
     justify-content: center;
@@ -151,7 +164,7 @@ section {
     padding-top: 27px;
     width: 272px;
     height: 306px;
-    background-color: #d9a918;
+    background-color: #edb418;
     border: 2px solid black;
     box-shadow: 2px 2px 4px black;
 }
