@@ -50,6 +50,7 @@ header > button {
     font-weight: 700;
     font-size: 20px;
     border: 2px solid black;
+    cursor: pointer;
 }
 
 main {
@@ -91,6 +92,7 @@ span > button {
     font-weight: 700;
     font-size: 20px;
     border: 2px solid black;
+    cursor: pointer;
 }
 
 main > img {
@@ -131,8 +133,8 @@ section > h2{
 }
 
 .varios{
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
     color: #ED4D1B;
 }
 
@@ -140,7 +142,7 @@ section > h2{
     display: flex;
     justify-content: center;
     gap: 33px;
-    margin-top: -75px;
+  
 }
 
 .cardred {
@@ -151,6 +153,7 @@ section > h2{
     padding-top: 27px;
     width: 272px;
     height: 306px;
+    margin-top: -55px;
     background-color: #ED4D1B;
     border: 2px solid black;
     box-shadow: 2px 2px 4px black;
@@ -164,6 +167,7 @@ section > h2{
     padding-top: 27px;
     width: 272px;
     height: 306px;
+    margin-top: -35px;
     background-color: #edb418;
     border: 2px solid black;
     box-shadow: 2px 2px 4px black;
